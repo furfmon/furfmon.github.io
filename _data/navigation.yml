@@ -1,7 +1,10 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: T&L
+  url: /content/about.html
 
-- title: Posts
-  url: /articles/
+- title: Shindig
+  url: /content/event.html
+
+- title: RSVP 
+  url: /content/registration.html

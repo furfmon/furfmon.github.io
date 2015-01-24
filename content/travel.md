@@ -33,4 +33,6 @@ to reserve a hotel room.
 # Things to do in the area...
 
 South Florida has so many things to do.
+<div>
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=zkdeO0REMoDM.kMnIj4Nu4sT4" width="640" height="480"></iframe>
+</div>

@@ -1,9 +1,7 @@
 ---
 layout: page
-title: The [Mighty Fine Shindig] [1]
+title: The Shindig
 excerpt: "The Shindig"
 ---
-
-[1]: Woop.
 
 

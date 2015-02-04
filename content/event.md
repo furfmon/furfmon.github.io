@@ -7,7 +7,9 @@ excerpt: "The Shindig"
 ## Ceremony and Reception Location
 
 ### Old Davie School Historical Museum
+
 ### 6650 Griffin Road
+
 ### Davie, FL 33314
 
 **Ceremony** - Under the trees

@@ -18,7 +18,7 @@ In his free time he likes to ping robots.
 Out mutual friend Cyndee decided to try her hand at match making.
 She told us each to perform some prerequisite Facebook stalking as we might like each other.
 All parties were interested, and we first met on an awkward chaperoned date with friends.
-Our first date was the next day and lasted for 9 hours, and we haven't looked back (too much) since.
+Our first date was the next day and lasted for 9 hours, and we haven't looked back since.
 
 # What's Next?
 We can't wait to spend the rest of our lives getting to know each other, talking it out, and generally figuring it out.

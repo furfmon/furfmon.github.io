@@ -5,7 +5,7 @@ locale: en_US
 description: April 11, 2015
 logo: site-logo.png
 search: true
-url: 
+url:
 
 
 # Jekyll configuration
@@ -49,5 +49,5 @@ owner:
     analytics:
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:

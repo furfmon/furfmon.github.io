@@ -29,7 +29,8 @@ The building was in continuous use as a school until 1980.
 From the day it opened, the Davie School served as the area's source of education as well as a center for community gatherings.
 In 1988 the Davie School achieved listing on the National Register of Historic Places.
 
-Courtesy of the <a href="http://odshm.ch2v.com/content.asp?PageID=0" target="_blank">Old Davie School website</a>.
+<div style="text-align:right"><sub>Courtesy of the <a href="http://odshm.ch2v.com/content.asp?PageID=0" target="_blank"><strong>Old Davie School website</strong></a>.</sub></div>
+
 Be sure to take some time during the cocktail hour to visit the museum on the first floor.
 
 ## Attire

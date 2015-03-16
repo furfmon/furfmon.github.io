@@ -16,7 +16,7 @@ Davie, FL is quite centrally located between three major airports: MIA, FLL, and
 </td>
 <td border="none" valign="center">
    <strong>Miami International Airport (MIA)</strong><br>
-   2100 NW 42nd Ave, Miami, FL 33126  
+   2100 NW 42nd Ave, Miami, FL 33126
 </td>
 </tr>
 <tr>
@@ -26,7 +26,7 @@ Davie, FL is quite centrally located between three major airports: MIA, FLL, and
 </td>
 <td border="none" valign="center">
    <strong>Fort Lauderdale-Hollywood International Airport (FLL)</strong><br>
-   100 Terminal Dr, Fort Lauderdale, FL 33315  
+   100 Terminal Dr, Fort Lauderdale, FL 33315
 </td>
 </tr>
 <tr><td border="none" valign="center" halign="center" >
@@ -35,14 +35,14 @@ Davie, FL is quite centrally located between three major airports: MIA, FLL, and
 </td>
   <td border="none" valign="center">
     <strong>Palm Beach International Airport (PBI)</strong><br>
-    1000 James L Turnage Blvd, West Palm Beach, FL 33415  
+    1000 James L Turnage Blvd, West Palm Beach, FL 33415
   </td>
 </tr>
 </table>
 
 # Lodging
 
-We have arranged a discount with Springhill Suites, in Dania Beach, FL. 
+We have arranged a discount with Springhill Suites, in Dania Beach, FL.
 The hotel is conveniently located between the beach and the wedding venue, and very close to FLL airport.
 
 The hotel has a free shuttle to take guests to and from the airport.
@@ -63,6 +63,8 @@ Additionally, the hotel rate includes a shuttle to and from the wedding venue th
 http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Ammon%20Furfaro%20Wedding%5EFLLDB%60AFWAFWA%7CAFWAFWB%60140.00%60USD%60false%604/9/15%604/13/15%603/19/15&app=resvlink&stop_mobi=yes
 )
 to reserve a hotel room.
+
+**Please note that the last day to book at hotel at the group rate is March 27<sup>th</sup>!**
 
 # Things to do in the area...
 

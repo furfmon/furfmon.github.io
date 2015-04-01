@@ -47,6 +47,7 @@ The hotel is conveniently located between the beach and the wedding venue, and v
 
 The hotel has a free shuttle to take guests to and from the airport.
 Additionally, the hotel rate includes a shuttle to and from the wedding venue the day of the event.
+**The shuttle is scheduled to leave the hotel at 3:15 pm on 11 April, and to return starting at 10:00 pm.**
 
 <table><tr><td border="none" valign="center" halign="center" >
 <a href="https://www.google.it/maps/place/SpringHill+Suites+Fort+Lauderdale+Airport+%26+Cruise+Port/@26.081007,-80.2037214,12z/data=!4m2!3m1!1s0x88d9aa461723dd9b:0x740ff20d1d96451c?hl=en" target="_blank">
@@ -58,13 +59,6 @@ Additionally, the hotel rate includes a shuttle to and from the wedding venue th
   </td>
 </tr>
 </table>
-
-[**Please click here**](
-http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Ammon%20Furfaro%20Wedding%5EFLLDB%60AFWAFWA%7CAFWAFWB%60140.00%60USD%60false%604/9/15%604/13/15%603/19/15&app=resvlink&stop_mobi=yes
-)
-to reserve a hotel room.
-
-**Please note that the last day to book at hotel at the group rate is March 27<sup>th</sup>!**
 
 # Things to do in the area...
 

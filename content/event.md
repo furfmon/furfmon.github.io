@@ -40,8 +40,8 @@ Additionally, please be aware the ceremony will be held outdoors in the grass.
 
 ## The Day of the Event...
 
-| **3:30pm** | Guests start arriving at Old Davie School House | 
-| **4:00pm** | Wedding Ceremony Begins | 
+| **3:30pm** | Guests start arriving at Old Davie School House |
+| **4:00pm** | Wedding Ceremony Begins |
 | **5:00pm** | Cocktail Hour |
-| **6:00pm** | Reception | 
+| **6:00pm** | Reception |
 

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About Us 
+title: About Us
 excerpt: "This is our story...."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-# About Leigh 
+# About Leigh
 Leigh works as a navigator for the lost at some governmental agency plotting streets and unknown pipeline content, making maps, and performing spatial analysis.
 She thinks she will start a blog about being vegan... or paleo... in Italy.
 
-# About Tom 
+# About Tom
 Tom works as a covert operative for some undisclosed international governmental agency somewhere in Europe.
 Sometimes he is on a boat.
 In his free time he likes to ping robots.

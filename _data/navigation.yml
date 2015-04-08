@@ -9,8 +9,11 @@
 - title: Shindig
   url: /content/event.html
 
-- title: RSVP
-  url: /content/registration.html
+# - title: RSVP
+#  url: /content/registration.html
+
+- title: Gallery
+  url: /content/gallery.html
 
 - title: Gifts
   url: /content/gifts.html
